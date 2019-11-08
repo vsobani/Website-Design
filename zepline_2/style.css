@@ -4,10 +4,9 @@
 }
 
 body {
-  /* margin: 45px;
-  margin-top: 33px; */
-  /* background-image: url(images/bg.jpg); */
-  background-size: cover;
+  margin: 45px;
+  margin-top: 33px;
+  background-image: url(images/bg2.jpg);
   font-family: "Montserrat", sans-serif;
   background-color: black;
 }
@@ -220,7 +219,7 @@ header {
 }
 
 .image-1 {
-  background-image: url(summer.jpg);
+  background-image: url(images/fire.gif);
   background-size: cover;
 }
 
@@ -230,6 +229,6 @@ header {
 }
 
 .image-3 {
-  background-image: url(winter.jpg);
+  background-image: url(images/bg.jpg);
   background-size: cover;
 }
